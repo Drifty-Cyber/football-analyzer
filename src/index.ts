@@ -2,7 +2,6 @@ import { MatchReader } from './MatchReader';
 import { CsvFileReader } from './CsvFileReader';
 import { Summary } from './Summary';
 import { WinsAnalysis } from './analyzers/WinsAnalysis';
-import { ConsoleReport } from './reportTargets/ConsoleReports';
 import { HtmlReport } from './reportTargets/HtmlReports';
 
 // Create an object that satisfies the 'DataReader' Interface
